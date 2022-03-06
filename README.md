@@ -10,6 +10,6 @@ The first day was an introduction into the basics of Python, string manipulation
 
 The second day's project was to create a simple tip calculator that would determine each persons portion of a bill plus the tip.
 
-## Day 3
+### Day 3
 
 On the third day, the project was to create a simple text choose your own adventure style of game.
