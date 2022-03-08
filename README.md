@@ -21,3 +21,7 @@ The fourth day's project had us create a rock, paper and scissors game that woul
 ### Day 5
 
 On the fifth day, the course showed how to use loops in Python which culminated in a password generator application.
+
+### Day 6
+
+Day six brought me to [Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json) to work with functions to get the robot to exit the maze.
