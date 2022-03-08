@@ -17,3 +17,7 @@ On the third day, the project was to create a simple text choose your own advent
 ### Day 4
 
 The fourth day's project had us create a rock, paper and scissors game that would have the user play against the computer.
+
+### Day 5
+
+On the fifth day, the course showed how to use loops in Python which culminated in a password generator application.
