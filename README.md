@@ -13,3 +13,7 @@ The second day's project was to create a simple tip calculator that would determ
 ### Day 3
 
 On the third day, the project was to create a simple text choose your own adventure style of game.
+
+### Day 4
+
+The fourth day's project had us create a rock, paper and scissors game that would have the user play against the computer.
