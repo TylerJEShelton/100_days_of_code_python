@@ -25,3 +25,7 @@ On the fifth day, the course showed how to use loops in Python which culminated 
 ### Day 6
 
 Day six brought me to [Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json) to work with functions to get the robot to exit the maze.
+
+### Day 7
+
+The project on day 7 was a hangman game that used some nice ASCII art.  This was a pretty fun one!
