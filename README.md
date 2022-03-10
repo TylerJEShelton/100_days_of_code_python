@@ -29,3 +29,7 @@ Day six brought me to [Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&
 ### Day 7
 
 The project on day 7 was a hangman game that used some nice ASCII art.  This was a pretty fun one!
+
+### Day 8
+
+Day 8's project was a simple command line take on Caesar's Cipher that asked the user if they wanted to encode or decode an inputted text and how many characters they wanted it to shift.
