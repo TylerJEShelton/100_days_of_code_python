@@ -33,3 +33,7 @@ The project on day 7 was a hangman game that used some nice ASCII art.  This was
 ### Day 8
 
 Day 8's project was a simple command line take on Caesar's Cipher that asked the user if they wanted to encode or decode an inputted text and how many characters they wanted it to shift.
+
+### Day 9
+
+Day nine introduced Dictionaries and we used them to create a simple command line auction program.
