@@ -37,3 +37,7 @@ Day 8's project was a simple command line take on Caesar's Cipher that asked the
 ### Day 9
 
 Day nine introduced Dictionaries and we used them to create a simple command line auction program.
+
+### Day 10
+
+The project on day 10 was a command line calculator that added, subtracted, multiplied and divided 2 inputted numbers.  You also allowed the user to continue calculating with the previous result, start a new calculation or exit the calculator.
