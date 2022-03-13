@@ -49,3 +49,7 @@ On day 11, we had to complete our first capstone project, a command line version
 ### Day 12
 
 The project today was to create a command line number guessing game.  This was a fun challenge that taught scope in Python.
+
+### Day 13
+
+Day 13 required us to go through some altered versions of previous work to find bugs.
