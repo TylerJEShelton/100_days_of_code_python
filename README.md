@@ -45,3 +45,7 @@ The project on day 10 was a command line calculator that added, subtracted, mult
 ### Day 11
 
 On day 11, we had to complete our first capstone project, a command line version of Blackjack.  This was actually a very fun project and I found myself playing far longer than I should have.
+
+### Day 12
+
+The project today was to create a command line number guessing game.  This was a fun challenge that taught scope in Python.
