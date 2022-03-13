@@ -41,3 +41,7 @@ Day nine introduced Dictionaries and we used them to create a simple command lin
 ### Day 10
 
 The project on day 10 was a command line calculator that added, subtracted, multiplied and divided 2 inputted numbers.  You also allowed the user to continue calculating with the previous result, start a new calculation or exit the calculator.
+
+### Day 11
+
+On day 11, we had to complete our first capstone project, a command line version of Blackjack.  This was actually a very fun project and I found myself playing far longer than I should have.
