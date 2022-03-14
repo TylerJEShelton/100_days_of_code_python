@@ -43,3 +43,6 @@ Day 13 required us to go through some altered versions of previous work to find 
 
 ### Day 14
 The project on Day 14 was actually very fun.  We were tasked with creating a higher or lower game that would randomly select 2 elements from an array of celebrities and companies and the user needs to choose which one has more followers.
+
+### Day 15
+The Day 15 project was very interesting.  We had to build the logic for an automated coffee maker.  It was definitely fun to work through all the logic to complete this one.  I will definitely need to go back to refactor it though.
