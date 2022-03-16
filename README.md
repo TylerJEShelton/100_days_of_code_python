@@ -46,3 +46,6 @@ The project on Day 14 was actually very fun.  We were tasked with creating a hig
 
 ### Day 15
 The Day 15 project was very interesting.  We had to build the logic for an automated coffee maker.  It was definitely fun to work through all the logic to complete this one.  I will definitely need to go back to refactor it though.
+
+### Day 16
+On Day 16, we were introduced to classes and objects. We refactored the coffee maker code to implement classes to help shorten the code in main.py while also making it much more readable. 
