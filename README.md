@@ -49,3 +49,6 @@ The Day 15 project was very interesting.  We had to build the logic for an autom
 
 ### Day 16
 On Day 16, we were introduced to classes and objects. We refactored the coffee maker code to implement classes to help shorten the code in main.py while also making it much more readable. 
+
+### Day 17
+Day 17 walked through the creation of classes and we used this to create a true/false quiz game.  I will definitely be coming back to this to expand on this basic project.
