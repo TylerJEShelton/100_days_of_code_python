@@ -54,3 +54,4 @@ On Day 16, we were introduced to classes and objects. We refactored the coffee m
 Day 17 walked through the creation of classes and we used this to create a true/false quiz game.  I will definitely be coming back to this to expand on this basic project.
 
 ### Day 18
+Day 18 had us using Turtle to replicate a Hirst painting using colorgram to extract colors from a jpg and then turtle dots.  This was a very interesting project!
