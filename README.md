@@ -55,3 +55,6 @@ Day 17 walked through the creation of classes and we used this to create a true/
 
 ### Day 18
 Day 18 had us using Turtle to replicate a Hirst painting using colorgram to extract colors from a jpg and then turtle dots.  This was a very interesting project!
+
+### Day 19
+The final project on Day 19 was a fun little game where 6 turtles raced to get to the right side of the screen.  Very fun!
