@@ -61,3 +61,6 @@ The final project on Day 19 was a fun little game where 6 turtles raced to get t
 
 ### Day 20
 The project today was part 1 of 2 where we start to recreate the classic snake game from the old Nokia cell phones.  
+
+### Day 21
+Today we completed the snake game.  We implemented collision detection with the wall, food and snake body pieces.  This was a lot of fun to complete!
