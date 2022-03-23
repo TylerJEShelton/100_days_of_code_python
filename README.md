@@ -64,3 +64,6 @@ The project today was part 1 of 2 where we start to recreate the classic snake g
 
 ### Day 21
 Today we completed the snake game.  We implemented collision detection with the wall, food and snake body pieces.  This was a lot of fun to complete!
+
+### Day 22
+The project today was a take on the classic Pong game.
