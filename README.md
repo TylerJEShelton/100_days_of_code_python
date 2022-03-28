@@ -70,3 +70,6 @@ The project today was a take on the classic Pong game.
 
 ### Day 23
 Today, we got to work on our second capstone project, a frogger clone.  We had to create cars randomly along the y axis and enable our turtle to cross the street.  Once we reached the end, we reset the turtle, increased the level and now had to cross with much quicker cars. This project was definitely interesting and a very fun build!
+
+### Day 24
+Today we learned about accessing the file system and used this knowledge to implement a high score mechanism for our snake game as well as a way to quickly customize the same letter to a multiple recipients.
